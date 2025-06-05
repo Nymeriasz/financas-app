@@ -1,20 +1,54 @@
-# Expo Router Example
+# 💸 Finanças App
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+Aplicativo simples de controle financeiro pessoal, desenvolvido como projeto acadêmico com React Native e Expo.
 
-## 🚀 How to use
+---
 
-```sh
-npx create-expo-app -e with-router
-```
+## 🚀 Funcionalidades
 
-## Deploy
+- 📥 Adicionar transações (entrada ou saída)
+- 📋 Listar transações salvas localmente
+- 📊 Visualizar estatísticas em gráficos
+- 💾 Armazenamento offline usando AsyncStorage
 
-Deploy on all platforms with Expo Application Services (EAS).
+---
 
-- Deploy the website: `npx eas-cli deploy` — [Learn more](https://docs.expo.dev/eas/hosting/get-started/)
-- Deploy on iOS and Android using: `npx eas-cli build` — [Learn more](https://expo.dev/eas)
+## 🛠️ Tecnologias Utilizadas
 
-## 📝 Notes
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [AsyncStorage](https://react-native-async-storage.github.io/async-storage/)
+- [React Navigation](https://reactnavigation.org/)
+- [Bibliotecas de gráficos (opcional)](https://formidable.com/open-source/victory/)
 
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+---
+
+## ⚙️ Como rodar o projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/financas-app.git
+   cd financas-app
+   ```
+
+2. Instale as dependências:
+   ```bash
+   npm install
+   ```
+
+3. Instale o AsyncStorage:
+   ```bash
+   npx expo install @react-native-async-storage/async-storage
+   ```
+
+4. Execute o projeto: 
+   ```bash
+   npx expo start
+   ```
+
+5. Escaneie o QR Code com o app Expo Go ou use um emulador Android/iOS.
+
+---
+
+## 📄 Licença
+Projeto acadêmico desenvolvido apenas para fins educacionais.
