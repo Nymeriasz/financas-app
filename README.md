@@ -2,7 +2,6 @@
 
 Aplicativo simples de controle financeiro pessoal, desenvolvido como projeto acadêmico com React Native e Expo.
 
----
 
 ## 🚀 Funcionalidades
 
@@ -11,7 +10,6 @@ Aplicativo simples de controle financeiro pessoal, desenvolvido como projeto aca
 - 📊 Visualizar estatísticas em gráficos
 - 💾 Armazenamento offline usando AsyncStorage
 
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -21,7 +19,6 @@ Aplicativo simples de controle financeiro pessoal, desenvolvido como projeto aca
 - [React Navigation](https://reactnavigation.org/)
 - [Bibliotecas de gráficos (opcional)](https://formidable.com/open-source/victory/)
 
----
 
 ## ⚙️ Como rodar o projeto
 
@@ -48,7 +45,6 @@ Aplicativo simples de controle financeiro pessoal, desenvolvido como projeto aca
 
 5. Escaneie o QR Code com o app Expo Go ou use um emulador Android/iOS.
 
----
 
 ## 📄 Licença
 Projeto acadêmico desenvolvido apenas para fins educacionais.
