@@ -25,7 +25,7 @@ Aplicativo simples de controle financeiro pessoal, desenvolvido como projeto aca
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/financas-app.git
-   cd financas-app
+   cd financas-app-main
    ```
 
 2. Instale as dependências:
